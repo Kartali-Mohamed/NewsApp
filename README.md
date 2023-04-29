@@ -1,3 +1,3 @@
-# news_app
+# News App Flutter
 
 ![](newsapp.png)
